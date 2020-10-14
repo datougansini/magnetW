@@ -2,8 +2,8 @@
   {
     "id": "zhongzisou",
     "name": "种子搜",
-    "proxy": false,
-    "url": "https://zhongzidi1.com",
+    "proxy": true,
+    "url": "https://www.zhongziso6.com",
     "paths": {
       "time": "/list/{k}/{p}",
       "size": "/list_length/{k}/{p}",
